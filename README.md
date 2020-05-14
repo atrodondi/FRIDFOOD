@@ -23,16 +23,17 @@ With people being stuck in their homes during SIP, learning to find quick recipe
 5. At any point, the user can hit the find recipes buttons on the My Fridge page and their page will populate with the names of popular recipes using the ingredients that they have in their fridge. The Spoonacular API provides the recipe names and images.
 6. Once the user is done finding what they can make with what they have, they can logout at the top, or they will automatically log out when the window or tab closes.
 
-## Vid of Site in Use
+## Video of Site in Use
 
 [Working App](https://drive.google.com/file/d/1xsW0vCvNWL4vkZVEz3N18k36-s7lMue6/view)
 
-## Technologies
+## Technologies/Tools
 
 1. [Node.js](https://nodejs.org/en/)
 2. [Express.js](https://expressjs.com/)
 3. [Handlebars.js](https://handlebarsjs.com/)
 4. [Firebase](https://firebase.google.com/)
+5. MVC style backend functionality 
 
 ## Authors:
 
